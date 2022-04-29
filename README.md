@@ -1,9 +1,9 @@
 
 # Welcome to my profile
 
-- My name is Marlon Buosi, currently coursing Compuer Engineering bachelor degree at Positivo University.
+- My name is Marlon Buosi, currently coursing Computer Engineering bachelor degree at Positivo University.
 
-- :office_worker: Fullstack Developer Trainee at **ExxonMobil**
+- :office_worker: Fullstack Developer at **ExxonMobil**
 
 # Languages and Tools
 <p align="center">
