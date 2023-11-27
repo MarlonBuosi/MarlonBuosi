@@ -1,7 +1,21 @@
 
 # Welcome to my profile
 
-- My name is Marlon Buosi, currently coursing Computer Engineering bachelor degree at Positivo University.
+- Full Stack Developer of Web and Mobile applications in the maintenance area with thousands of users whose objective is to facilitate the organization of maintenance routines within ExxonMobil sites.
+
+Technologies:
+- ReactJS, NodeJS
+- Javascript, Typescript
+- C#, AngularJS
+- Azure, Terraform.
+- GitHub, Material-UI
+
+Responsability:
+- Developed features for front-end, back-end, and mobile applications using best practices in software development.
+- Ensured the smooth operation and continuous support of the applications, proactively addressing any issues and providing timely resolutions to maintain optimal performance.
+- Collaborated within a team to find optimal solutions for day-to-day challenges.
+- Conducted testing and debugging to ensure the quality of the final product.
+- Explored innovative solutions compatible with the technologies and work environment.
 
 - :office_worker: Fullstack Developer at **ExxonMobil**
 
@@ -21,8 +35,7 @@
 
 
 # Find me on
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marlonbuosi_@hotmail.com)](mailto:marlonbuosi_@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/marlon-buosi-39a56216b/))
   
 <!---
 MarlonBuosi/MarlonBuosi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
