@@ -34,12 +34,41 @@ high-traffic applications serving over 5,000 users.
   <h1>Status</h1>
 </div>
 
-| [![Trophies](https://github-profile-trophy.vercel.app/?username=MarlonBuosi&row=1&column=6&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarlonBuosi&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarlonBuosi&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonBuosi&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarlonBuosi&show_icons=true&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+<div align="center">
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://github-profile-trophy.vercel.app/?username=MarlonBuosi&row=1&column=6&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarlonBuosi&theme=tokyonight&utcOffset=-3" alt="GitHub Commits" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarlonBuosi&theme=tokyonight" alt="GitHub Details" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonBuosi&theme=tokyonight" alt="Top Langs" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="https://github-readme-stats.vercel.app/api?username=MarlonBuosi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
