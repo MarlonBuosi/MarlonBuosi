@@ -28,12 +28,14 @@ high-traffic applications serving over 5,000 users.
   <a target="_blank" href="https://www.linkedin.com/in/marlon-buosi-39a56216b/">
     <img src="https://skillicons.dev//icons?i=linkedin" />
   </a>
-
-  <div>
-    <h1>Status</h1>
-    <img src="https://github-profile-trophy.vercel.app/?username=MarlonBuosi&row=1&column=6&theme=tokyonight&margin-w=15&margin-h=15"/>
-  </div>
 </div>
+
+<div align="center" >
+  <h1>Status</h1>
+</div>
+
+| [![Trophies](https://github-profile-trophy.vercel.app/?username=MarlonBuosi&row=1&column=6&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarlonBuosi&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarlonBuosi&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
